@@ -1,0 +1,1 @@
+<div class="bg-yellow-300  rounded hover:bg-yellow-400 border-black hover:z-50 text-black  p-2 cursor-pointer  m-0.5 "><slot/></div>
